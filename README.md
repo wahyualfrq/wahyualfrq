@@ -55,12 +55,8 @@ Mahasiswa Informatika di **Universitas MDP** dengan ketertarikan pada pengembang
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=wahyualfrq&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahyualfrq&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=wahyualfrq&theme=github-dark-blue&hide_border=true&background=0D1117" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wahyualfrq&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wahyualfrq&theme=tokyonight" />
 </p>
 
 ---
